@@ -1,4 +1,4 @@
-name: NanoPi R4S RubikWrt Stable
+name: Build NanoPi R4S RubikWrt Stable
 on:
   workflow_dispatch:
   schedule:
