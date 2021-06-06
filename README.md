@@ -25,6 +25,14 @@ wget -4 -O /tmp/KoolProxyR_install.sh https://shaoxia1991.coding.net/p/koolproxy
 
 程序运行完毕后，即可在“服务”列表看到KoolProxyR了
 
+------------------------------------
+
+灰度测试功能
+更新模块
+- 测试版更新
+``` wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_beta.sh
+- 稳定版更新
+``` wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_stable.sh
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - Telegram群组：https://t.me/RubikWrtChat/
