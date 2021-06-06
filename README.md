@@ -40,7 +40,7 @@ wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_beta.sh
 - 稳定版固件更新（在`TYDD终端`输入👇并回车）
 
 ``` 
-wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_beta.sh
+wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_stable.sh
 ```
 
 -----------------------------------------------------------------------------------
