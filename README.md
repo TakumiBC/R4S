@@ -43,6 +43,8 @@ wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_beta.sh
 wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_beta.sh
 ```
 
+-----------------------------------------------------------------------------------
+
 - Telegram群组：https://t.me/RubikWrtChat/
 - Telegram频道：https://t.me/RubikWrt/
 
