@@ -31,13 +31,13 @@ wget -4 -O /tmp/KoolProxyR_install.sh https://shaoxia1991.coding.net/p/koolproxy
 
 
 
-- 测试版固件更新（在`TYDD终端`输入👇并回车）
+- 测试版固件更新（在`TTYD终端`输入👇并回车）
 
 ``` 
 wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_beta.sh
 ```
 
-- 稳定版固件更新（在`TYDD终端`输入👇并回车）
+- 稳定版固件更新（在`TTYD终端`输入👇并回车）
 
 ``` 
 wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_stable.sh
