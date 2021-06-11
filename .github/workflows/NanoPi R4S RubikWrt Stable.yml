@@ -244,8 +244,7 @@ jobs:
           body_path: release.txt
           files: ${{ env.FIRMWARE }}/*
 
-      - name: Delete Artifacts
-        uses: geekyeggo/delete-artifact@v1
-        with:
-          name: |
-            bin-archive
+      - name: WeChat notification
+        if: env.SERVERCHAN_NOTIFICATION == 'true'
+        run: |
+            curl https://sc.ftqq.com/${{ secrets.SCKEY }}.send?text=🎉RubikWrt R4S Stable is Success😋
