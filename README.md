@@ -19,19 +19,9 @@
 
 默认编译
 
-- 后台ip：192.168.9.1
+- 后台ip：192.168.2.1
 - 用户名：root
 - 密码：password
-
-------
-
-固件内置了KoolProxyR，若想使用请先在`TTYD终端`输入👇并回车
-
-```
-wget -4 -O /tmp/KoolProxyR_install.sh https://shaoxia1991.coding.net/p/koolproxyr/d/koolproxyr/git/raw/master/KoolProxyR_install.sh && chmod 777 /tmp/KoolProxyR_install.sh && sh /tmp/KoolProxyR_install.sh
-```
-
-程序运行完毕后，即可在“服务”列表看到KoolProxyR了
 
 ------
 
