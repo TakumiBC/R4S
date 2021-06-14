@@ -1,5 +1,8 @@
 # NanoPi R4S RubikWrt
+捐赠作者
 
+- 爱发电：http://afdian.net/@thomaswcy/plan/
+------
 - 下载地址：https://gihtub.com/thomaswcy/R4S/releases
 
 版本区分
@@ -45,9 +48,3 @@ wget https://raw.githubusercontent.com/thomaswcy/R4S/main/scripts/update_stable.
 
 - Telegram群组：https://t.me/RubikWrtChat/
 - Telegram频道：https://t.me/RubikWrt/
-
----------------------------------------------------------------------------------------
-
-捐赠作者
-
-- 爱发电：http://afdian.net/@thomaswcy/plan/
