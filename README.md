@@ -1,6 +1,6 @@
 # NanoPi R4S RubikWrt
 机场推荐
-- [https://ap.hb48.tk/](https://ap.hb48.tk//auth/register?code=JtoN) 
+- [https://ap.hb48.tk/](https://ap.hb48.tk//auth/register?code=JtoN) Matrix
 ------------------
 捐赠作者
 
