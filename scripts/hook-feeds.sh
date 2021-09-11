@@ -20,9 +20,9 @@ svn co https://github.com/immortalwrt/packages/trunk/net/gowebdav packages/net/g
 
 # Add luci-app-netdata
 rm -rf packages/admin/netdata
-svn co https://github.com/281677160/openwrt-package/trunk/feeds/packages/net/netdata packages/admin/netdata
+svn co https://github.com/281677160/openwrt-package/trunk/netdata packages/admin/netdata
 rm -rf ../package/lean/luci-app-netdata
-svn co https://github.com/281677160/openwrt-package/trunk/feeds/luci/applications/luci-app-netdata luci/applications/luci-app-netdata
+svn co https://github.com/281677160/openwrt-package/trunk/luci-app-netdata luci/applications/luci-app-netdata
 
 # Add tmate
 git clone --depth=1 https://github.com/immortalwrt/openwrt-tmate
@@ -32,7 +32,6 @@ git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall luci/applicati
 
 # Add gotop
 svn co https://github.com/immortalwrt/packages/branches/openwrt-18.06/admin/gotop packages/admin/gotop
-
 
 # Add minieap
 svn co https://github.com/immortalwrt/packages/trunk/net/minieap packages/net/minieap
