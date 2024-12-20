@@ -9,7 +9,7 @@
                                               
  ```
 
-- 爱发电：http://afdian.net/@thomaswcy/plan/
+- 爱发电：http://afdian.com/@thomaswcy/plan/
 ----------------------------------------------------------------------------------------
 - 下载地址：https://github.com/thomaswcy/R4S/releases
 ---------------------
